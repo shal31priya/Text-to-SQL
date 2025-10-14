@@ -1,0 +1,9 @@
+pysqlite3-binary
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+pdf2image
+sqlite3
